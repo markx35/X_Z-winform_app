@@ -1,2 +1,2 @@
 # POS-winform
-480 Project with Cheng Zong
+CS 481 Final Project with Cheng Zong
