@@ -1,4 +1,5 @@
 X_Z store
+Contributor: Mark Xie, Cheng Zong
 
 Demo
 ![image](https://user-images.githubusercontent.com/84262040/195721852-a28ed536-ea8b-49f7-a05b-7c39a281e7a3.png)
